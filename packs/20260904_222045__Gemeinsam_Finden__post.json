@@ -1,0 +1,161 @@
+{
+  "runId": "20260904_222045",
+  "createdAt": "2026-09-04T22:20:45.212Z",
+  "page": "Gemeinsam Finden",
+  "country": "DE",
+  "mode": "post",
+  "quality": "low",
+  "resolution": "1k",
+  "total": 21,
+  "generated": 21,
+  "failed": 0,
+  "files": [
+    {
+      "file": "001_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Würdest du einer Frau wie mir eine echte Chance geben?",
+      "caption": ""
+    },
+    {
+      "file": "002_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "003_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "An diesem stillen Abend auf dem Hof fühle ich mich so allein. Willst du mein echter Mann sein?",
+      "caption": ""
+    },
+    {
+      "file": "004_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "005_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Ich lebe einfach auf dem Dorf – würdest du einer Frau wie mir den Alltag versüßen?",
+      "caption": ""
+    },
+    {
+      "file": "006_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "007_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "In diesem Kleid barfuß am Morgen... nimmst du mich einfach so, wie ich bin?",
+      "caption": ""
+    },
+    {
+      "file": "008_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "009_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Ich trinke wieder allein Kaffee. Setzt du dich dazu?",
+      "caption": ""
+    },
+    {
+      "file": "010_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "011_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "A oder B – würdest du mich wählen oder einfach weitergehen?",
+      "caption": ""
+    },
+    {
+      "file": "012_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "013_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Eine Tasse Kaffee — gibst du mir eine Chance?",
+      "caption": ""
+    },
+    {
+      "file": "014_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "015_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Wenn ich dir gefalle, schreib einfach hallo.",
+      "caption": ""
+    },
+    {
+      "file": "016_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "017_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Ohne Filter und Make-up, einfach nur ich mit meinen Falten – würde dich das trotzdem reizen?",
+      "caption": ""
+    },
+    {
+      "file": "018_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "019_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Morgens in der kalten Wohnung – würdest du mich neben dir im Bett wärmen?",
+      "caption": ""
+    },
+    {
+      "file": "020_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "021_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "A oder B – welches Bild von mir würdest du lieber kennenlernen?",
+      "caption": ""
+    }
+  ]
+}
