@@ -1,0 +1,161 @@
+{
+  "runId": "20260904_214535",
+  "createdAt": "2026-09-04T21:45:35.167Z",
+  "page": "Láska Začíná Tady",
+  "country": "CZ",
+  "mode": "post",
+  "quality": "low",
+  "resolution": "1k",
+  "total": 21,
+  "generated": 21,
+  "failed": 0,
+  "files": [
+    {
+      "file": "001_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Jedna káva. Dáš mi šanci?",
+      "caption": ""
+    },
+    {
+      "file": "002_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "003_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Ten tichý večer je příliš osamělý. Chci vedle sebe opravdového muže.",
+      "caption": ""
+    },
+    {
+      "file": "004_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "005_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Pocházím z vesnice a žiju prostě. Přesto bys zůstal se mnou?",
+      "caption": ""
+    },
+    {
+      "file": "006_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "007_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Ráno ve výtahu cítím chlad... probudíš se vedle mě a zůstaneš?",
+      "caption": ""
+    },
+    {
+      "file": "008_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "009_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Ráno ve výtahu, zima venku a ty vedle mě v posteli... zůstal bys?",
+      "caption": ""
+    },
+    {
+      "file": "010_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "011_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Vyber A nebo B. Kterou bys chtěl poznat?",
+      "caption": ""
+    },
+    {
+      "file": "012_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "013_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Sedím večer sama doma a toužím po opravdovém muži vedle sebe.",
+      "caption": ""
+    },
+    {
+      "file": "014_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "015_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Tenhle tichý večer mi připomíná, jak moc toužím po někom opravdovém. Jsi to ty?",
+      "caption": ""
+    },
+    {
+      "file": "016_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "017_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Žiju prostě na vesnici, mezi stromy a jabłky. Chtěl bys takovou ženu vedle sebe?",
+      "caption": ""
+    },
+    {
+      "file": "018_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "019_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Jsem teď bez make-upu a filtrů, jen já. Stále bys chtěl poznat tu pravou?",
+      "caption": ""
+    },
+    {
+      "file": "020_post.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "021_post.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Zase piju kávu sama. Sedneš si?",
+      "caption": ""
+    }
+  ]
+}
