@@ -1,0 +1,161 @@
+{
+  "runId": "20260904_201131",
+  "createdAt": "2026-09-04T20:11:31.380Z",
+  "page": "Real Connections Canada",
+  "country": "CA",
+  "mode": "post",
+  "quality": "low",
+  "resolution": "1k",
+  "total": 21,
+  "generated": 21,
+  "failed": 0,
+  "files": [
+    {
+      "file": "001.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Do I still have what it takes to make you look twice?",
+      "caption": ""
+    },
+    {
+      "file": "002.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "003.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Do I still make a man like you do a double take?",
+      "caption": ""
+    },
+    {
+      "file": "004.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "005.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Would you actually ask me out?",
+      "caption": ""
+    },
+    {
+      "file": "006.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "007.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "I don't want another evening alone.",
+      "caption": ""
+    },
+    {
+      "file": "008.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "009.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "No makeup, no filters, just a 48-year-old face... would you still message me?",
+      "caption": ""
+    },
+    {
+      "file": "010.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "011.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Be honest — am I your type?",
+      "caption": ""
+    },
+    {
+      "file": "012.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "013.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Write yes if you'd like to know me.",
+      "caption": ""
+    },
+    {
+      "file": "014.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "015.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "You caught me on a quiet street... does this smile make you want to say hi?",
+      "caption": ""
+    },
+    {
+      "file": "016.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "017.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Would you stay a moment if I asked?",
+      "caption": ""
+    },
+    {
+      "file": "018.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "019.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "At 48 these lines on my face tell the real story... would you still look twice?",
+      "caption": ""
+    },
+    {
+      "file": "020.jpg",
+      "status": "generated",
+      "hasSign": false,
+      "signText": "",
+      "caption": ""
+    },
+    {
+      "file": "021.jpg",
+      "status": "generated",
+      "hasSign": true,
+      "signText": "Is it wrong that I'm already imagining your hands on my waist?",
+      "caption": ""
+    }
+  ]
+}
